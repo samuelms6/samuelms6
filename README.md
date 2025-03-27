@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backand`**
 
-Olá, muito prazer! Me chamo Samuel Melo Silva, tenho 19 anos e sou brasiliense. Concluí o ensino médio em 2022 mas somente em 2024 que iniciei meu contato com o mundo da programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIGRANDE.
+Olá, muito prazer! Me chamo Samuel Melo Silva, tenho 19 anos e sou de Brasília-DF. Concluí o ensino médio em 2022 mas somente em 2024 que iniciei meu contato com o mundo da programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIGRANDE.
 
 <p align="left">
 
